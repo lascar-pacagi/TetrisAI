@@ -23,4 +23,4 @@ To learn the weights:
 
 you can see the different options with: `./learn -h`.
 
-![score](score.png)
+![score](resource/score.png)
